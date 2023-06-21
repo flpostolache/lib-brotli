@@ -1,0 +1,3 @@
+menuconfig LIBBROTLI
+    bool "Brotli - generic-purpose lossless compression algorithm"
+    default n
